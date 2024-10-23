@@ -1,0 +1,21 @@
+name: dynamic_path_url_strategy
+description: "A Flutter package that provides a clean way to handle URL strategy for web applications, removing the '#' from URLs while maintaining compatibility with non-web platforms"
+version: 1.0.0
+homepage: https://github.com/ilCONDORA/dynamic_path_url_strategy
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_web_plugins:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
