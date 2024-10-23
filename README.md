@@ -1,4 +1,4 @@
-# flutter_url_strategy
+# dynamic_path_url_strategy
 
 A Flutter package that provides a clean way to handle URL strategy for web applications, removing the '#' from URLs while maintaining compatibility with non-web platforms.
 
@@ -21,7 +21,7 @@ dependencies:
 ## Usage
 
 ```dart
-import 'package:flutter_url_strategy/flutter_url_strategy.dart';
+import 'package:dynamic_path_url_strategy/dynamic_path_url_strategy.dart';
 
 void main() {
   setPathUrlStrategy();
